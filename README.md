@@ -1,6 +1,6 @@
 # HEY THERE!
 
-🎓 I'm a Computer engineering third yearite at Mukesh Patel School of Technology Management and Engineering
+🎓 I'm a Computer Engineering Third Yearite at Mukesh Patel School of Technology Management and Engineering
 
 🌱 I’m currently learning React.js
 
