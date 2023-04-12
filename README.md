@@ -8,6 +8,6 @@
 
 💻 I'm proficient in Java, Python, R,SQL and C
 
-⚡ Interests:Data Analysis,Machine Learning & Data Analysis ,App Development,Block Chain and Responsive Webpage Development
+⚡ Interests:Data Analysis,Machine Learning & NLP ,App Development,Block Chain and Responsive Webpage Development
  
 💬 Reach me at dhyannshah@gmail.com
