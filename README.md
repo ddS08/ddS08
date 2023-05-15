@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Engineering Third Yearite at Mukesh Patel School of Technology Management and Engineering
 
-🌱 I’m currently learning React.js
+🌱 I’m currently learning Dart(Flutter)
 
 👯 I’m looking to collaborate on an App Development Project
 
