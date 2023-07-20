@@ -2,7 +2,7 @@
 
 🎓 I'm a Computer Engineering Third Yearite at Mukesh Patel School of Technology Management and Engineering
 
-🌱 I’m currently learning NodesJS,ReactJS,Svelte
+🌱 I’m currently learning NextJS,NodesJS,ReactJS,Svelte
 
 👯 I’m looking to collaborate on an App Development Project(Web/Android)
 
